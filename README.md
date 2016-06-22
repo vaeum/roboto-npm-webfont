@@ -14,7 +14,7 @@ import 'roboto-npm-webfont';
 
 ```
 body {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 ```
 

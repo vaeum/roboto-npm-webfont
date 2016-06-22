@@ -1,6 +1,6 @@
 {
   "name": "roboto-npm-webfont",
-  "version": "0.0.4",
+  "version": "0.0.2",
   "description": "Roboto webfont package",
   "main": "style.css",
   "scripts": {
