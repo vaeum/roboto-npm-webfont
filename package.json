@@ -4,7 +4,7 @@
   "description": "Roboto webfont package",
   "main": "style.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test !!!\""
   },
   "repository": {
     "type": "git",
