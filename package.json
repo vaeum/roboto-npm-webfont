@@ -15,7 +15,7 @@
     "webfont"
   ],
   "author": "Vaeum",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vaeum/roboto-npm-webfont/issues"
   },
