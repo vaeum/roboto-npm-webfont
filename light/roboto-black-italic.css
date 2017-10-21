@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto Black Italic'),
+         local('Roboto-BlackItalic'),
+         url('fonts/robotoblackitalic.woff2') format('woff2'),
+         url('fonts/robotoblackitalic.woff') format('woff'),
+         url('fonts/robotoblackitalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}

@@ -42,20 +42,3 @@ body {
 #### Webpack dependencies:
 
 - css-loader
-
-#### Without webpack
-
-```
-//css
-@import "node_modules/roboto-npm-webfont/style.css";
-
-//less
-@import "node_modules/roboto-npm-webfont/style.less";
-
-//scss
-@import "node_modules/roboto-npm-webfont/style.scss";
-
-//Stylus
-@import "node_modules/roboto-npm-webfont/style.styl"
-```
-

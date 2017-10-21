@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto Italic'),
+         local('Roboto-Italic'),
+         url('fonts/robotoitalic.woff2') format('woff2'),
+         url('fonts/robotoitalic.woff') format('woff'),
+         url('fonts/robotoitalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}

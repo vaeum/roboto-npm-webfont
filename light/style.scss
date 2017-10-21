@@ -1,10 +1,10 @@
-// directory 
+// directory
 $roboto-npm-webfont-dir:"fonts" !default;
 
 // font"s array configuration
 $roboto-npm-webfont-fonts: (
-  ("Roboto Thin",           "Roboto-Thin",          "robotothin",           100,    normal), 
-  ("Roboto Thin Italic",    "Roboto-ThinItalic",    "robotothinitalic",     100,    italic), 
+  ("Roboto Thin",           "Roboto-Thin",          "robotothin",           100,    normal),
+  ("Roboto Thin Italic",    "Roboto-ThinItalic",    "robotothinitalic",     100,    italic),
   ("Roboto Light",          "Roboto-Light",         "robotolight",          300,    normal),
   ("Roboto Light Italic",   "Roboto-LightItalic",   "robotolightitalic",    300,    italic),
   ("Roboto",                "Roboto-Regular",       "roboto",               400,    normal),
@@ -18,7 +18,7 @@ $roboto-npm-webfont-fonts: (
 );
 
 @each $font in $roboto-npm-webfont-fonts {
-  
+
   $name:  nth($font, 1);
   $alias: nth($font, 2);
   $file:  nth($font, 3);
@@ -33,5 +33,4 @@ $roboto-npm-webfont-fonts: (
     font-weight:  nth($font, 4);
     font-style:   nth($font, 5);
   }
-  
 }
