@@ -1,6 +1,6 @@
 {
   "name": "roboto-npm-webfont",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Roboto webfont package",
   "main": "light/style.css",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/vaeum/roboto-npm-webfont.git"
   },
-  "keywords": ["roboto", "webfont"],
+  "keywords": [
+    "roboto",
+    "webfont"
+  ],
   "author": "Vaeum",
   "license": "MIT",
   "contributors": [
